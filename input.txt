@@ -1,0 +1,4 @@
+Python 3 is simple and useful.
+This project encrypts text from txt files.
+Polish letters like ą, ę, ł, ń, ó, ś, ź, ż stay unchanged.
+Test code: abcxyz789

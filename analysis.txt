@@ -1,0 +1,9 @@
+CHARACTER FREQUENCY ANALYSIS
+========================================
+Total letters and digits (excluding spaces, punctuation, new lines, etc.): 116
+
+a ->     4 (  3.45%)
+b ->     1 (  0.86%)
+c ->     2 (  1.72%)
+...
+9 ->     1 (  0.86%)

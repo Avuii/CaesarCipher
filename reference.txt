@@ -1,0 +1,4 @@
+This reference text is used for frequency comparison.
+It contains English words, repeated letters, and a few digits like 2026.
+The goal is not perfect cryptanalysis, but a simple educational example.
+It helps estimate the most likely shift used in the encrypted file.

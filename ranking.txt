@@ -1,0 +1,6 @@
+SHIFT RANKING
+==============================
+Shift  5 -> difference: 18.4200
+Shift 12 -> difference: 24.1800
+Shift  1 -> difference: 27.0300
+...
